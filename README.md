@@ -5,10 +5,12 @@
 1- Clone my repository or download it az zip file from this url:
 
   https://github.com/MohammedMostafaDataServe/FullStackDevelopment
+  
+2- Extract file and put it in specific directory on your machine  
 
-2- Ensure that docker installed on your machine
+3- Ensure that docker installed on your machine
 
-3- Run backend application:
+4- Run backend application:
 
  a) Open your terminal and point to backend application folder in directory you put it: ../\Jumia-Backend\JumiaService  
  b) Run these 2 commands:
@@ -20,7 +22,7 @@
   
  If reponded with json data and http status ok so backend application running well
  
- 4- Run frontend application:
+ 5- Run frontend application:
  
   a) Open your terminal and point to frontend application folder in directory you put it: ../\Jumia-Frontend  
   b) Run these 2 commands:
