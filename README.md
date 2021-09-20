@@ -29,7 +29,7 @@
    Now frontend application is running you cant test it by hitting this url on your browser: 
      http://localhost:4200/
      
-   This page should render list of customers and phone numbers....
+   This page should render list of customers and phone numbers...
      
     Finished Thanks
  
