@@ -2,7 +2,7 @@
 
 # Please follow these steps to boot up the project:
 
-1- Clone my project from repository or download it az zip file from this url:
+1- Clone my repository or download it az zip file from this url:
   https://github.com/MohammedMostafaDataServe/FullStackDevelopment
 
 2- Ensure that docker installed on your machine
@@ -21,9 +21,9 @@
  
  4- Run frontend application:
  
-  a) Open your terminal and point to fronten application folder in directory you put it: ../\Jumia-Frontend
+  a) Open your terminal and point to frontend application folder in directory you put it: ../\Jumia-Frontend
   b) Run these 2 commands:
-   > docker build -t jumia-frontend .  (Hint: there are space dot at the end this is part of command)
+   > docker build -t jumia-frontend .  (Hint: there are space dot at the end this is part of command)  
    > docker run -p 4200:80 jumia-frontend
    
    Now frontend application is running you cant test it by hitting this url on your browser: 
