@@ -11,7 +11,7 @@
 
  a) Open your terminal and point to backend application folder in directory you put it: ../\Jumia-Backend\JumiaService
  b) Run these 2 commands:
-  > docker build -t jumia-backend .  (Hint: there are space dot at the end this is part of command)
+  > docker build -t jumia-backend .  (Hint: there are space dot at the end this is part of command)  
   > docker run -p 8080:8080 jumia-backend
  
  Now backend application is running you can test it by hitting this url on your browser: 
