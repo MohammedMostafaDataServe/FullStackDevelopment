@@ -1,4 +1,4 @@
-# I have developed backend application with spring boot 2.5.4 & SQLite3 and frontend application using angular 12
+# I have developed backend application with Spring Boot 2.5.4 & SQLite3 and frontend application with Angular 12
 
 # Please follow these steps to boot up the project:
 
