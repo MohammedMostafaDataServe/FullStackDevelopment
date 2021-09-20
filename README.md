@@ -9,7 +9,7 @@
 
 3- Run backend application:
 
- a) Open your terminal and point to backend application folder in directory you put it: ../\Jumia-Backend\JumiaService
+ a) Open your terminal and point to backend application folder in directory you put it: ../\Jumia-Backend\JumiaService  
  b) Run these 2 commands:
   > docker build -t jumia-backend .  (Hint: there are space dot at the end this is part of command)  
   > docker run -p 8080:8080 jumia-backend
@@ -21,7 +21,7 @@
  
  4- Run frontend application:
  
-  a) Open your terminal and point to frontend application folder in directory you put it: ../\Jumia-Frontend
+  a) Open your terminal and point to frontend application folder in directory you put it: ../\Jumia-Frontend  
   b) Run these 2 commands:
    > docker build -t jumia-frontend .  (Hint: there are space dot at the end this is part of command)  
    > docker run -p 4200:80 jumia-frontend
